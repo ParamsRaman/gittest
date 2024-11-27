@@ -5,3 +5,5 @@ Adding animals here
 lion
 
 elephant
+
+giraffe
